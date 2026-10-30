@@ -8,3 +8,65 @@
     color: rgb(0, 0, 0);
     background-color: rgb(140, 134, 217);
 }
+
+.APL {
+text-align: center;
+color: rgb(0, 0, 0);
+background-color: rgb(30, 189, 102);
+}
+
+.SERRE {
+text-align: center;
+color: rgb(0, 0, 0);
+background-color: rgb(33, 150, 158)
+}
+
+.PI {
+    text-align: center;
+    color: white;
+    background-color: rgb(13, 8, 71);
+}
+
+.ANN {
+    text-align: center;
+    color: white;
+    background-color: rgb(138, 62, 26);
+}
+
+.IPE {
+    text-align: center;
+    color: white;
+    background-color: rgb(117, 39, 92);
+}
+
+.ING {
+    text-align: center;
+    color: white;
+    background-color: rgb(71, 15, 15);
+}
+
+.SEG {
+    text-align: center;
+    color: white;
+    background-color: rgb(34, 128, 42);
+}
+
+.dia {
+    color: black;
+    background-color: rgb(207, 198, 76);
+}
+
+.hora {
+    color: black;
+    background-color: rgb(133, 173, 114);
+}
+
+.med {
+    color: black;
+    background-color: rgb(163, 173, 114);
+}
+
+table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
