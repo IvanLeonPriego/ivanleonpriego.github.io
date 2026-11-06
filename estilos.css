@@ -1,0 +1,22 @@
+.cabeceras {
+    background-color: rgb(242, 208, 70);
+    border: 4px solid rgb(0, 0, 0);
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+.lista {
+    border: 4px solid rgb(0, 0, 0);
+    color: black;
+    font-family: Comic Sans MS;
+    background-color: white;
+}
+
+.pie {
+    font-family: Comic Sans MS;
+}
+
+body {
+    background-image: url("imagenes/fondo.jpg");
+    background-size: cover;
+}
