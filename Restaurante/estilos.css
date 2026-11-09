@@ -1,0 +1,22 @@
+nav {
+    background-color: rgb(204, 45, 45);
+    border: 2px solid rgb(0, 0, 0);
+    font-family: Comic Sans MS;
+    width: 35px;
+  padding: 5px;
+text-align: center;
+}
+
+.links {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.Cabecera {
+  background-color: rgb(252, 211, 129);
+  font-family: Comic Sans MS;
+  width: -8000px;
+  padding: 25px;
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+}
