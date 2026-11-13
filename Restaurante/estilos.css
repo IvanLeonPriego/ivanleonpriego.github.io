@@ -38,11 +38,30 @@ body {
   border: 2px solid rgb(0, 0, 0);
 }
 
-.Enlaceslista {
+ul {
+  background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    font-family: Comic Sans MS;
+    width: 350px;
+  padding: 25px;
+}
+
+ol {
    background-color: rgb(255, 255, 255);
     border: 2px solid rgb(0, 0, 0);
     font-family: Comic Sans MS;
-    width: 80px;
+    width: 800px;
   padding: 25px;
-text-align: center;
 }
+
+.centro {
+  text-align: center;
+}
+
+div {text-align: center;}
+
+table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            background-color: white;
+        }
