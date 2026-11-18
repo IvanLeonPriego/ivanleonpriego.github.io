@@ -1,10 +1,19 @@
-nav {
-    background-color: rgb(204, 45, 45);
-    border: 2px solid rgb(0, 0, 0);
-    font-family: Comic Sans MS;
-    width: 35px;
-  padding: 5px;
-text-align: center;
+
+
+button {
+  background-color: rgb(204, 45, 45);
+  border: 2px solid rgb(0, 0, 0);
+  font-family: Comic Sans MS;
+  width: 50px;
+  padding: 7px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+button:hover {
+  background: rgb(204, 45, 45);
+  color: #ffffff;
+  transform: translateY(-1px);
 }
 
 .links {
@@ -64,4 +73,23 @@ table, th, td {
             border: 1px solid black;
             border-collapse: collapse;
             background-color: white;
+            font-family: "Comic Sans MS";
+        }
+
+.titulotabla {
+            text-align: center;
+            background-color: rgb(155, 196, 161);
+        }
+
+        .horastabla {
+            text-align: center;
+            background-color: rgb(169, 213, 217);
+        }
+        .abierto {
+            text-align: center;
+            background-color: rgb(94, 194, 89);
+        }
+        .cerrado {
+            text-align: center;
+            background-color: rgb(212, 42, 42);
         }
