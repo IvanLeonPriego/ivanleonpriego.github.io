@@ -18,6 +18,10 @@ a {
     text-decoration: none;
 }
 
+ul {text-decoration: none;}
+
+nav {text-decoration: none;}
+
 .pie {
     font-family: Comic Sans MS;
 }
