@@ -12,6 +12,12 @@
     background-color: white;
 }
 
+
+
+a {
+    text-decoration: none;
+}
+
 .pie {
     font-family: Comic Sans MS;
 }
