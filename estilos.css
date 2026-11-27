@@ -30,3 +30,21 @@ body {
     background-image: url("imagenes/fondo.jpg");
     background-size: cover;
 }
+
+button {
+  background-color: rgb(204, 45, 45);
+  border: 2px solid rgb(0, 0, 0);
+  font-family: Comic Sans MS;
+  width: 50px;
+  padding: 7px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+
+
+button:hover {
+  background: rgb(204, 45, 45);
+  color: #ffffff;
+  transform: translateY(-1px);
+}
