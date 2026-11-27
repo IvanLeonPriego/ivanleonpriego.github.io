@@ -93,3 +93,31 @@ table, th, td {
             text-align: center;
             background-color: rgb(212, 42, 42);
         }
+
+.Reserva {
+  background-color: rgb(252, 211, 129);
+  font-family: Comic Sans MS;
+  width: -8000px;
+  padding: 2px 2px;
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+
+.RellenarFormulario {
+  background-color: rgb(239, 242, 218);
+  font-family: Comic Sans MS;
+  width: -8000px;
+  padding: 2px;
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.EnvioFormulario {
+  background-color: rgb(239, 242, 218);
+  font-family: Comic Sans MS;
+  width: -8000px;
+  padding: 2px;
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+}
